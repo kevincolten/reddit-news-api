@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "reddit-news-api-executor",
+    "name": "reddit-news-api",
+    "region": "us-west-1"
+  },
+  "api": {
+    "id": "vfbx6bjb4j"
+  }
+}

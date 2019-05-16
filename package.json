@@ -1,0 +1,14 @@
+{
+  "name": "reddit-news-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kevin Colten <kevincolten@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-serverless-express": "^3.3.6",
+    "claudia": "^5.5.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "node-fetch": "^2.5.0"
+  }
+}
